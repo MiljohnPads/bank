@@ -1,0 +1,104 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "account_id": 7,
+      "initial_deposit": "8038.07",
+      "type": "withdraw",
+      "datetime": "1998-06-01",
+      "source": "laboriosam",
+      "created_at": "2023-12-21T12:57:04.000000Z",
+      "updated_at": "2023-12-21T12:57:04.000000Z"
+    },
+    {
+      "id": 2,
+      "account_id": 3,
+      "initial_deposit": "348.81",
+      "type": "deposit",
+      "datetime": "1996-04-15",
+      "source": "quae",
+      "created_at": "2023-12-21T12:57:04.000000Z",
+      "updated_at": "2023-12-21T12:57:04.000000Z"
+    },
+    {
+      "id": 3,
+      "account_id": 7,
+      "initial_deposit": "7809.38",
+      "type": "withdraw",
+      "datetime": "2008-04-08",
+      "source": "a",
+      "created_at": "2023-12-21T12:57:04.000000Z",
+      "updated_at": "2023-12-21T12:57:04.000000Z"
+    },
+    {
+      "id": 4,
+      "account_id": 1,
+      "initial_deposit": "1202.66",
+      "type": "deposit",
+      "datetime": "2020-06-15",
+      "source": "non",
+      "created_at": "2023-12-21T12:57:04.000000Z",
+      "updated_at": "2023-12-21T12:57:04.000000Z"
+    },
+    {
+      "id": 5,
+      "account_id": 2,
+      "initial_deposit": "7153.92",
+      "type": "deposit",
+      "datetime": "2016-04-30",
+      "source": "sint",
+      "created_at": "2023-12-21T12:57:04.000000Z",
+      "updated_at": "2023-12-21T12:57:04.000000Z"
+    },
+    {
+      "id": 6,
+      "account_id": 5,
+      "initial_deposit": "6940.34",
+      "type": "deposit",
+      "datetime": "2021-06-02",
+      "source": "aperiam",
+      "created_at": "2023-12-21T12:57:04.000000Z",
+      "updated_at": "2023-12-21T12:57:04.000000Z"
+    },
+    {
+      "id": 7,
+      "account_id": 8,
+      "initial_deposit": "6478.22",
+      "type": "withdraw",
+      "datetime": "1995-09-09",
+      "source": "veritatis",
+      "created_at": "2023-12-21T12:57:04.000000Z",
+      "updated_at": "2023-12-21T12:57:04.000000Z"
+    },
+    {
+      "id": 8,
+      "account_id": 10,
+      "initial_deposit": "6788.18",
+      "type": "withdraw",
+      "datetime": "1995-11-30",
+      "source": "non",
+      "created_at": "2023-12-21T12:57:04.000000Z",
+      "updated_at": "2023-12-21T12:57:04.000000Z"
+    },
+    {
+      "id": 9,
+      "account_id": 2,
+      "initial_deposit": "5262.80",
+      "type": "withdraw",
+      "datetime": "2012-03-21",
+      "source": "ex",
+      "created_at": "2023-12-21T12:57:04.000000Z",
+      "updated_at": "2023-12-21T12:57:04.000000Z"
+    },
+    {
+      "id": 10,
+      "account_id": 8,
+      "initial_deposit": "9931.95",
+      "type": "withdraw",
+      "datetime": "1998-04-06",
+      "source": "harum",
+      "created_at": "2023-12-21T12:57:04.000000Z",
+      "updated_at": "2023-12-21T12:57:04.000000Z"
+    }
+  ]
+}

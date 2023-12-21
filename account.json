@@ -1,0 +1,94 @@
+{
+  "accounts": [
+    {
+      "id": 1,
+      "user_id": 3,
+      "username": "mluettgen",
+      "type": "PayMaya",
+      "balance": "9794.30",
+      "created_at": "2023-12-21T12:57:04.000000Z",
+      "updated_at": "2023-12-21T12:57:04.000000Z"
+    },
+    {
+      "id": 2,
+      "user_id": 3,
+      "username": "gorczany.adell",
+      "type": "Metrobank",
+      "balance": "1171.57",
+      "created_at": "2023-12-21T12:57:04.000000Z",
+      "updated_at": "2023-12-21T12:57:04.000000Z"
+    },
+    {
+      "id": 3,
+      "user_id": 10,
+      "username": "christina.connelly",
+      "type": "GCash",
+      "balance": "7835.20",
+      "created_at": "2023-12-21T12:57:04.000000Z",
+      "updated_at": "2023-12-21T12:57:04.000000Z"
+    },
+    {
+      "id": 4,
+      "user_id": 4,
+      "username": "emante",
+      "type": "Metrobank",
+      "balance": "7359.98",
+      "created_at": "2023-12-21T12:57:04.000000Z",
+      "updated_at": "2023-12-21T12:57:04.000000Z"
+    },
+    {
+      "id": 5,
+      "user_id": 2,
+      "username": "nquigley",
+      "type": "PayMaya",
+      "balance": "569.93",
+      "created_at": "2023-12-21T12:57:04.000000Z",
+      "updated_at": "2023-12-21T12:57:04.000000Z"
+    },
+    {
+      "id": 6,
+      "user_id": 2,
+      "username": "magali.jones",
+      "type": "GCash",
+      "balance": "3574.28",
+      "created_at": "2023-12-21T12:57:04.000000Z",
+      "updated_at": "2023-12-21T12:57:04.000000Z"
+    },
+    {
+      "id": 7,
+      "user_id": 3,
+      "username": "blick.macey",
+      "type": "BDO",
+      "balance": "3828.47",
+      "created_at": "2023-12-21T12:57:04.000000Z",
+      "updated_at": "2023-12-21T12:57:04.000000Z"
+    },
+    {
+      "id": 8,
+      "user_id": 6,
+      "username": "hintz.brandyn",
+      "type": "BDO",
+      "balance": "4776.14",
+      "created_at": "2023-12-21T12:57:04.000000Z",
+      "updated_at": "2023-12-21T12:57:04.000000Z"
+    },
+    {
+      "id": 9,
+      "user_id": 6,
+      "username": "zjakubowski",
+      "type": "Metrobank",
+      "balance": "4852.70",
+      "created_at": "2023-12-21T12:57:04.000000Z",
+      "updated_at": "2023-12-21T12:57:04.000000Z"
+    },
+    {
+      "id": 10,
+      "user_id": 2,
+      "username": "pabbott",
+      "type": "PayMaya",
+      "balance": "9118.89",
+      "created_at": "2023-12-21T12:57:04.000000Z",
+      "updated_at": "2023-12-21T12:57:04.000000Z"
+    }
+  ]
+}

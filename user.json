@@ -1,0 +1,114 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "full_name": "Alexandrea Cassin",
+      "address": "6295 Tracy Mountains Apt. 763\nPort Wilbert, DE 68210-3753",
+      "email": "nnader@ziemann.biz",
+      "phone": "34158144501",
+      "sex": "female",
+      "occupation": "doctor",
+      "created_at": "2023-12-21T12:57:04.000000Z",
+      "updated_at": "2023-12-21T12:57:04.000000Z"
+    },
+    {
+      "id": 2,
+      "full_name": "Ms. Nikki Rogahn",
+      "address": "2675 Bahringer Valleys\nBettystad, NV 77793",
+      "email": "vlakin@schamberger.com",
+      "phone": "26385623367",
+      "sex": "female",
+      "occupation": "teacher",
+      "created_at": "2023-12-21T12:57:04.000000Z",
+      "updated_at": "2023-12-21T12:57:04.000000Z"
+    },
+    {
+      "id": 3,
+      "full_name": "Prof. Marcos Heaney III",
+      "address": "234 Leta Trace\nKhalilside, UT 45456",
+      "email": "quinton.johnston@gmail.com",
+      "phone": "72403816915",
+      "sex": "male",
+      "occupation": "teacher",
+      "created_at": "2023-12-21T12:57:04.000000Z",
+      "updated_at": "2023-12-21T12:57:04.000000Z"
+    },
+    {
+      "id": 4,
+      "full_name": "Dr. Bennett Olson PhD",
+      "address": "41902 Bogisich Village\nEast Caliborough, SC 14027-6598",
+      "email": "kilback.russell@pfannerstill.com",
+      "phone": "90307411191",
+      "sex": "male",
+      "occupation": "engineer",
+      "created_at": "2023-12-21T12:57:04.000000Z",
+      "updated_at": "2023-12-21T12:57:04.000000Z"
+    },
+    {
+      "id": 5,
+      "full_name": "Electa Dickens MD",
+      "address": "5968 Samir Plaza Suite 759\nKiehnfurt, NE 21146",
+      "email": "genoveva.klocko@turner.com",
+      "phone": "35553082522",
+      "sex": "female",
+      "occupation": "teacher",
+      "created_at": "2023-12-21T12:57:04.000000Z",
+      "updated_at": "2023-12-21T12:57:04.000000Z"
+    },
+    {
+      "id": 6,
+      "full_name": "Naomie Witting",
+      "address": "4236 Elyssa Spurs\nLednerville, CA 79151",
+      "email": "hblick@yahoo.com",
+      "phone": "26522822235",
+      "sex": "male",
+      "occupation": "teacher",
+      "created_at": "2023-12-21T12:57:04.000000Z",
+      "updated_at": "2023-12-21T12:57:04.000000Z"
+    },
+    {
+      "id": 7,
+      "full_name": "Miss Thea Monahan",
+      "address": "305 Milford Track\nMurrayshire, IA 40555-3659",
+      "email": "norwood92@schaefer.com",
+      "phone": "26369283552",
+      "sex": "male",
+      "occupation": "developer",
+      "created_at": "2023-12-21T12:57:04.000000Z",
+      "updated_at": "2023-12-21T12:57:04.000000Z"
+    },
+    {
+      "id": 8,
+      "full_name": "Andreane Hegmann",
+      "address": "9453 Tromp Rapids\nSouth Hipolitoburgh, LA 08684",
+      "email": "gherman@hotmail.com",
+      "phone": "47522107391",
+      "sex": "female",
+      "occupation": "teacher",
+      "created_at": "2023-12-21T12:57:04.000000Z",
+      "updated_at": "2023-12-21T12:57:04.000000Z"
+    },
+    {
+      "id": 9,
+      "full_name": "Barney Christiansen",
+      "address": "40959 Vincenza Road Apt. 112\nSouth Yasminland, SC 41663-8431",
+      "email": "delbert.breitenberg@yahoo.com",
+      "phone": "42940892037",
+      "sex": "male",
+      "occupation": "developer",
+      "created_at": "2023-12-21T12:57:04.000000Z",
+      "updated_at": "2023-12-21T12:57:04.000000Z"
+    },
+    {
+      "id": 10,
+      "full_name": "Elise Cremin",
+      "address": "270 Jordon Parkway\nNobleside, NY 04933",
+      "email": "aiden.howe@gmail.com",
+      "phone": "01166521813",
+      "sex": "male",
+      "occupation": "teacher",
+      "created_at": "2023-12-21T12:57:04.000000Z",
+      "updated_at": "2023-12-21T12:57:04.000000Z"
+    }
+  ]
+}
